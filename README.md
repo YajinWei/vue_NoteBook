@@ -1,6 +1,7 @@
 # vuedemo
 
 > A Vue.js project
+> Markdown语法学习:https://www.appinn.com/markdown/
 
 ## Build Setup
 
